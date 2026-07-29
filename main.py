@@ -5,7 +5,7 @@ import hashlib
 import requests
 
 # আপনার নিজস্ব GitHub Raw ফাইলের লিংক এখানে বসাবেন (যেখানে Approved কী-গুলো থাকবে)
-GITHUB_URL = "https://githubusercontent.com"
+GITHUB_URL = "https://raw.githubusercontent.com/bayezidbostami404/rose-server/refs/heads/main/approved_keys.txt"
 
 def clear_screen():
     os.system('clear' if os.name == 'posix' else 'cls')
