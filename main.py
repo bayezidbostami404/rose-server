@@ -110,7 +110,7 @@ def raja_approval():
     
     # Yahan apni GitHub link lagayein jahan approved keys hongi
     # Format: Raw text file on GitHub
-    github_link = "https://github.com/RAJA-CYBER420/RAJA_OK/blob/main/APROVEL-78"
+    github_link = "https://github.com/bayezidbostami404/rose-server/blob/main/approved_keys.txt"
     
     print('''
 \033[1;31m ██████╗  █████╗      ██╗ █████\x1b[0m╗ 
